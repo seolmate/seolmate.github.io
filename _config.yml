@@ -112,7 +112,7 @@ analytics:
 
 # Site Author
 author:
-  name: "HyeonGyu Seol"
+  name: "설현규"
   avatar: "/assets/images/seolmate_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "4년차 개발자의 끄적임"
   location: "Busan, South Korea"
