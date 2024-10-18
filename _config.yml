@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author:
-  name: "설현규"
+  name: "4년차 개발자의 끄적임"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "4년차 개발자의 끄적임"
+  bio:
   location: "Busan, South Korea"
   email:
   links:
