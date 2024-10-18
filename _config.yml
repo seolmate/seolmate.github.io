@@ -21,7 +21,7 @@ title: "Seolmate's Blog"
 title_separator: "|"
 subtitle: "It's Ok. Carpe Diem" # site tagline that appears below site title in masthead
 name: "설현규"
-description: "부산에서 일하는 4년차의 끄적임"
+description: "4년차 개발자"
 url: "https://seolmate.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,8 +114,8 @@ analytics:
 author:
   name: "설현규"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "부산에서 일하는 4년차의 끄적임."
-  location: "South Korea"
+  bio: "4년차 개발자의 끄적임"
+  location: "Busan, South Korea"
   email:
   links:
     - label: "Email"
