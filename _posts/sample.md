@@ -3,6 +3,9 @@ layout: single
 title: "첫 포스팅!!!"
 categories: coding
 tag: [javascript, blog, jekyll]
+sidebar:
+  nav: "docs"
+search: false
 ---
 
 # 우선 Javascript 소스 한 스푼~
