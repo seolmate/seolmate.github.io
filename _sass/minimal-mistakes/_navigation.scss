@@ -511,9 +511,11 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    // color: #fff;
+    color: $toc-color;
     font-size: $type-size-6;
-    background: $primary-color;
+    // background: $primary-color;
+    background: $toc-backgroundColor;
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;
   }
