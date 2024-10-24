@@ -113,8 +113,8 @@ analytics:
 # Site Author
 author:
   name: "설현규"
-  avatar: "/assets/images/seolmate_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "4년차 개발자의 끄적임"
+  avatar: # "/assets/images/seolmate_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "4년차 Front-end 개발자의 끄적임"
   location: "Busan, South Korea"
   email:
   links:
@@ -289,11 +289,15 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fa-solid fa-bars-staggered"
 
 date_format: "%Y-%m-%d"
